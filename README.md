@@ -1,7 +1,6 @@
-[![MasterHead](https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct-v2/What-is-Web-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/are-front-end-developers-paid-less-than-back-end-developers/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshashwattt&label=Profile%20views&color=0e75b6&style=flat" alt="kshashwattt" /> </p>
 
